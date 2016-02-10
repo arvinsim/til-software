@@ -1,9 +1,11 @@
 # How to define new keybindings with leader key
 
 
-## To set a new keybindings with the leader key, use this format
+### To set a new keybindings with the leader key, use this format
 
-(spacemacs/set-leader-keys "<character> <characer> ...." '<commnd>)
+```
+(spacemacs/set-leader-keys "<key> <key> ..." '<commnd>)
+```
 
 Examples: 
 
@@ -21,7 +23,7 @@ the leader followed by the lowercase 'o' and 'a'
 Pressing the leader key followed by the space bar will execute the
 'avy-goto-char-timer' command
 
-## Note
+### Note
 
 If there are keybinding conflicts between the system default configuration
 and the user configuration, the user alwasys takes precedence.
