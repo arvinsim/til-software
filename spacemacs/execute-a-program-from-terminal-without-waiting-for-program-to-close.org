@@ -1,0 +1,14 @@
+* Execute a program from terminal without waiting for program to close
+
+To run a program without making the shell wait for it until it closes,
+add a "&" at the end of your command.
+
+#+BEGIN_EXAMPLE
+For example, if we want to run the "emacs" command without waiting,
+
+#+BEGIN_SRC 
+emacs README.org &
+#+END_SRC
+#+END_EXAMPLE
+
+[[http://unix.stackexchange.com/questions/189294/run-script-and-not-lost-access-to-prompt-terminal][Source]]

@@ -1,6 +1,12 @@
-* til-software
+* Today I Learned in Software
+
 Collection of TILs concerning software
 
 ** Spacemacs
 
 [[./spacemacs/how-to-define-new-keybindings-with-leader-key.org][How to define new keybindings with leader key]]
+
+** Shell
+
+[[./spacemacs/execute-a-program-from-terminal-without-waiting-for-program-to-close.org][Execute a program from terminal without waiting for program to close]]
+

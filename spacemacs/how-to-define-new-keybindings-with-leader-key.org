@@ -1,13 +1,12 @@
 * How to define new keybindings with leader key
 
-
-** To set a new keybindings with the leader key, use this format
+** Use this format
 
 #+BEGIN_SRC 
 (spacemacs/set-leader-keys "<key> <key> ..." '<commnd>)
 #+END_SRC
 
-Examples: 
+** Examples: 
 
 #+BEGIN_SRC 
 (spacemacs/set-leader-keys "o a" 'org-agenda)
