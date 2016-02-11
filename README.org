@@ -1,0 +1,6 @@
+* til-software
+Collection of TILs concerning software
+
+** Spacemacs
+
+[[./spacemacs/how-to-define-new-keybindings-with-leader-key.org][How to define new keybindings with leader key]]
