@@ -8,5 +8,5 @@ Collection of TILs concerning software
 
 ** Shell
 
-[[./spacemacs/execute-a-program-from-terminal-without-waiting-for-program-to-close.org][Execute a program from terminal without waiting for program to close]]
+[[./shell/execute-a-program-from-terminal-without-waiting-for-program-to-close.org][Execute a program from terminal without waiting for program to close]]
 
