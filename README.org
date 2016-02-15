@@ -10,3 +10,7 @@ Collection of TILs concerning software
 
 [[./shell/execute-a-program-from-terminal-without-waiting-for-program-to-close.org][Execute a program from terminal without waiting for program to close]]
 
+** OSX
+
+[[./OSX/how-to-take-a-screenshot-in-mac-osx.org][How to Take a Screenshot in Mac OSX]]
+

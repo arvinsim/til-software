@@ -1,0 +1,52 @@
+* How to Take a Screenshot in Mac OSX
+
+** Screenshot a Portion of Your Screen
+
+- Press /Command + Shift + 4/
+- Click and drag your cursor to highlight the area you'd like to take a picture of
+- Let go of the mouse
+- Find your screenshot on your desktop
+
+** Take Shot of Your Entire Screen
+
+- Make sure your screen displays exactly what you want to show in your screenshot image
+- Press /Command + Shift + 3/
+- Find your screenshot on your desktop 
+
+** Save a Screenshot to the Clipboard
+
+- Press /Command + Control + Shift + 3/
+  - You can also take a portion screenshot with this method using /Command + Control + Shift + 4/
+    and dragging your reticle over the appropriate part of your screen
+- Use /Command + V/ or /Edit > Paste/ to paste your image
+
+** Screenshot of an Open Window
+
+- Press /Command + Shift + 4/ and hit Spacebar
+- Move your cursor over the window you want to capture
+- Click on the window
+
+** Grab Utility Method
+
+- Go to /Applications > Utilities > Grab/
+- Click the Capture menu and choose between the different options
+  - To take a picture of your entire screen, click on /Screen/
+  - To take a picture of a portion of your screen, click on /Selection/
+  - To take a picture of a specific window, select /Window/
+- When the new windows opens, choose /Save/
+ 
+** Altering the Default Location of the Saved Files
+
+- Create a new folder
+- Name the Folder
+- Open a terminal screen
+- In the command line, copy /defaults write com.app.screencapture location/, making sure to include
+  a space after location. Don't click Return
+- Drag the folder you want into the terminal window
+- Click Return
+- Copy /killall SystemUIServer/ into the command line and hit Return
+- Be careful not to delete the folder
+
+
+[[http://www.wikihow.com/Take-a-Screenshot-in-Mac-OS-X][Source]]
+
