@@ -1,0 +1,22 @@
+* How to get the intersection of dictionaries using list comprehensions
+
+Use the list comprehenstion to get the interseting values of dictionaries, 
+
+When we want to get the the intersecting values of dictionaries, the following list comprehension will get the values
+
+#+BEGIN_SRC 
+list1 = {
+    'a': 'a',
+    'b': 'b',
+    'c': 'c',
+}
+
+list2 = {
+    'b': '2',
+}
+
+intersection = [value for key, value in list2.items() if key in list1]
+
+print(intersection)
+
+#+END_SRC

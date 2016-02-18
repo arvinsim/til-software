@@ -14,3 +14,6 @@ Collection of TILs concerning software
 
 [[./OSX/how-to-take-a-screenshot-in-mac-osx.org][How to Take a Screenshot in Mac OSX]]
 
+** Python
+
+[[./python/how-to-get-the-intersection-of-dictionaries-using-list-comprehensions.org][How to get the intersection of dictionaries using list comprehensions]]
