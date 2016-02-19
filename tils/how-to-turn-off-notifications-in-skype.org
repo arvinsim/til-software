@@ -1,0 +1,9 @@
+* How to Turn Off Notifications in Skype
+
+I searched for plugins to be able to silence notifications from Skype to no avail. It turns out that the solution is very simple.
+
+To do it, just set your status to *Do not disturb*. I thought this status was just for aesthetic purposes only. I did not know it actually blocks notifications from reaching you.
+
+
+
+

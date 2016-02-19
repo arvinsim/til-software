@@ -2,7 +2,9 @@
 
 Collection of TILs concerning software
 
-** Spacemacs
+** Editors
+
+*** Spacemacs
 
 [[./spacemacs/how-to-define-new-keybindings-with-leader-key.org][How to define new keybindings with leader key]]
 
@@ -13,4 +15,8 @@ Collection of TILs concerning software
 ** OSX
 
 [[./OSX/how-to-take-a-screenshot-in-mac-osx.org][How to Take a Screenshot in Mac OSX]]
+
+** Messengers
+
+[[./tils/how-to-turn-off-notifications-in-skype.org][How to Turn Off Notifications in Skype]]
 
