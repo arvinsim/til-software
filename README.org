@@ -1,23 +1,13 @@
 * Today I Learned in Software
-
 Collection of TILs concerning software
-
 ** Editors
-
 *** Spacemacs
-
-[[./spacemacs/how-to-define-new-keybindings-with-leader-key.org][How to define new keybindings with leader key]]
-
+**** [[./spacemacs/how-to-define-new-keybindings-with-leader-key.org][How to define new keybindings with leader key]]
 ** Shell
-
-[[./shell/execute-a-program-from-terminal-without-waiting-for-program-to-close.org][Execute a program from terminal without waiting for program to close]]
-
+*** [[./shell/execute-a-program-from-terminal-without-waiting-for-program-to-close.org][Execute a program from terminal without waiting for program to close]]
 ** OSX
-
-[[./OSX/how-to-take-a-screenshot-in-mac-osx.org][How to Take a Screenshot in OSX]]
-[[./OSX/enabling-matplotlib-in-osx.org][Enabling Matplotlib in OSX]]
-
+*** [[./OSX/how-to-take-a-screenshot-in-mac-osx.org][How to Take a Screenshot in OSX]]
+*** [[./OSX/enabling-matplotlib-in-osx.org][Enabling Matplotlib in OSX]]
 ** Messengers
-
-[[./tils/how-to-turn-off-notifications-in-skype.org][How to Turn Off Notifications in Skype]]
+*** [[./tils/how-to-turn-off-notifications-in-skype.org][How to Turn Off Notifications in Skype]]
 
