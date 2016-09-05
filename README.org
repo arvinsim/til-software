@@ -14,7 +14,8 @@ Collection of TILs concerning software
 
 ** OSX
 
-[[./OSX/how-to-take-a-screenshot-in-mac-osx.org][How to Take a Screenshot in Mac OSX]]
+[[./OSX/how-to-take-a-screenshot-in-mac-osx.org][How to Take a Screenshot in OSX]]
+[[./OSX/enabling-matplotlib-in-osx.org][Enabling Matplotlib in OSX]]
 
 ** Messengers
 
