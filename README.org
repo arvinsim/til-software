@@ -3,6 +3,7 @@ Collection of TILs concerning software
 ** Editors
 *** Spacemacs
 **** [[./spacemacs/how-to-define-new-keybindings-with-leader-key.org][How to define new keybindings with leader key]]
+**** [[./spacemacs/how-to-insert-structural-elements.org][How to insert structural elements]] 
 ** Shell
 *** [[./shell/execute-a-program-from-terminal-without-waiting-for-program-to-close.org][Execute a program from terminal without waiting for program to close]]
 ** OSX
