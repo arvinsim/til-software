@@ -1,0 +1,18 @@
+* Enabling Matplotlib in OSX
+
+NOTE More about this topic in [[http://matplotlib.org/faq/virtualenv_faq.html][this matplotlib FAQ]]. 
+
+** Define this function in your ~.bashrc~ file
+
+#+BEGIN_SRC bash
+function frameworkpython {
+    if [[ ! -z "$VIRTUAL_ENV" ]]; then
+        PYTHONHOME=$VIRTUAL_ENV /usr/local/bin/python "$@"
+    else
+        /usr/local/bin/python "$@"
+    fi
+}
+#+END_SRC
+
+** Run your script using ~frameworkpython~ instead of ~python~ 
+
